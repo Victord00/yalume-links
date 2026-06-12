@@ -2,9 +2,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // Configuração dos links
     const linksData = [
         {
-            title: 'Site Oficial Yalumê',
+            title: 'Conheça e compre aqui',
             url: 'https://yalume.com.br/',
             id: 'site-oficial'
+        },
+        {
+            title: '6 aromas com frete grátis',
+            url: 'https://www.yalume.com.br/kit-descoberta-velas-20g-yalume-01/',
+            id: 'kit-descoberta'
         },
         {
             title: 'Acompanhar pedidos',
